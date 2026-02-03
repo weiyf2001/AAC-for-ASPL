@@ -4,7 +4,7 @@ This repository hosts **supplementary trajectory visualizations** (GIF/PNG) acco
 
 > **Paper:** *Trajectory Planning for Stratospheric Airship under Forecast-Uncertain Wind Fields via Asymmetric Actor-Critic Reinforcement Learning*. 
 > **Method:** *[POMDP + Asymmetric Actor–Critic + LSTM]*
-> **Framework:** ![Framework](asset/frame.png)
+> **Framework:** ![Framework](asset/framework.png)
 
 ---
 
