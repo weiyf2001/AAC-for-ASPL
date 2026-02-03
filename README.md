@@ -1,4 +1,4 @@
-# Supplementary Visualizations for Our TAES Paper
+# Supplementary Visualizations for the Paper
 
 This repository hosts **supplementary trajectory visualizations** (GIF/PNG) accompanying our paper on long-horizon stratospheric airship trajectory planning under forecast-uncertain wind fields.
 
