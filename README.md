@@ -33,14 +33,11 @@ A recommended layout (adapt to your actual files):
 
 > Replace the filenames below with your actual paths.
 
-**Origin / In-distribution**
-![Origin comparison](assets/png/traj_compare_origin.png)
-
-**Spatial OOD**
-![Spatial OOD comparison](assets/png/traj_compare_spatial_ood.png)
+**Algorithms**
+![Algorithms comparison](assets/png/traj_compare_algo.png)
 
 **Lead-time sweep (0–48h)**
-![Lead-time sweep](assets/gif/traj_compare_leadtime_0_48h.gif)
+![Lead-time sweep](assets/png/traj_compare_leadtime.png)
 
 ---
 
