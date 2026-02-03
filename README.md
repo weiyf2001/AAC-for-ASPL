@@ -1,10 +1,10 @@
 # Supplementary Visualizations for Our TAES Paper
 
-This repository hosts **supplementary trajectory visualizations** (GIF/PNG) accompanying our IEEE TAES submission on long-horizon stratospheric airship trajectory planning under forecast-uncertain wind fields.
+This repository hosts **supplementary trajectory visualizations** (GIF/PNG) accompanying our paper on long-horizon stratospheric airship trajectory planning under forecast-uncertain wind fields.
 
-> **Paper (TODO):** *[Full Paper Title]*, IEEE Transactions on Aerospace and Electronic Systems (TAES), Year.  
-> **Method (TODO):** *[e.g., POMDP + Asymmetric Actor–Critic + LSTM]*  
-> **Project page / preprint (optional, TODO):** *[arXiv / DOI]*
+> **Paper:** *Trajectory Planning for Stratospheric Airship under Forecast-Uncertain Wind Fields via Asymmetric Actor-Critic Reinforcement Learning*. 
+> **Method:** *[POMDP + Asymmetric Actor–Critic + LSTM]*
+> **Framework:** ![Framework](asset/frame.png)
 
 ---
 
