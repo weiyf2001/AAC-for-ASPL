@@ -71,6 +71,3 @@ If you have multiple algorithms per figure, encode them in a short tag:
   - PNG: any image viewer
 
 ---
-
-
-1. Put rollout logs under a local folder (not necessarily committed), e.g.:
