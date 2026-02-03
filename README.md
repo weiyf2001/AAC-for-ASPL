@@ -34,10 +34,10 @@ A recommended layout (adapt to your actual files):
 > Replace the filenames below with your actual paths.
 
 **Algorithms**
-![Algorithms comparison](assets/png/traj_compare_algo.png)
+![Algorithms comparison](assets/traj_vis_algo.png)
 
 **Lead-time sweep (0–48h)**
-![Lead-time sweep](assets/png/traj_compare_leadtime.png)
+![Lead-time sweep](assets/traj_vis_lead_time.png)
 
 ---
 
