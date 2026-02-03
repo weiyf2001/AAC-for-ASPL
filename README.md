@@ -28,5 +28,7 @@ This repository is intentionally **minimal** and focuses on *visual evidence* ra
 **Lead-time sweep (0–48h)**
 ![Lead-time sweep](asset/traj_vis_lead_time.png)
 
+### Resources
+- [Baidu Netdisk](https://pan.baidu.com/s/1ClB_6mIJgiBmAWDQXZrMwA?pwd=na3h) - Download the visual animated **GIF**： *(Extraction Code: na3h)*  
 ---
 
