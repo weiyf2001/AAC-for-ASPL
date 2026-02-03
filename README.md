@@ -21,7 +21,6 @@ This repository is intentionally **minimal** and focuses on *visual evidence* ra
 
 ### Key Trajectory Comparisons
 
-> Replace the filenames below with your actual paths.
 
 **Algorithms**
 ![Algorithms comparison](asset/traj_vis_algo.png)
