@@ -57,7 +57,7 @@ The **ERA5 Dataset** from the European Centre for Medium-Range Weather Forecasts
 
 ## 📄 License
 
-### CMEMS Dataset
+### ERA5 Dataset
 The use of this dataset is distributed under the **CC-BY licence**. Commercial use of these models is strictly prohibited.
 
 For more details, please refer to the [license terms](https://creativecommons.org/licenses/by/4.0/legalcode).
